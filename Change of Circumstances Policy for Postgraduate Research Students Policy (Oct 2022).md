@@ -1,16 +1,35 @@
 # MANCHESTER 1824
 
-|230|F|Change of Circumstances for Postgraduate Research Students Policy|October 2022|
-|---|---|---|---|
-| |Change of Circumstances for Postgraduate Research Students Policy| | |
-| | |October 2022| |
-|Research Degrees and Researcher Development|Directorate of Research and Business Engagement| | |
+Change of Circumstances for Postgraduate Research Students Policy
+
+October 2022
+
+Research Degrees and Researcher Development
+Directorate of Research and Business Engagement
 # Change of Circumstances for Postgraduate Research Students Policy
 
 October 2022
 
-CONTENTS1. Introduction2. Duration of Study3. Roles and Responsibilities4. Mitigating Circumstances5. Interruptions to a Degree6. Unauthorised Absence and Short-Term Absence7. Official Leave of Absence8. Holiday Allowance9. Council Tax Exemption10. Maternity, Adoption, Paternity, and Unpaid Parental Leave11. Sickness12. Extensions13. Submission Pending14. International Students and Immigration15. Students Sponsored by External Funding Organisations16. Withdrawals and Terminations
-# Change of Circumstances for Postgraduate Research Students Policy
+CONTENTS
+1. Introduction
+2. Duration of Study
+3. Roles and Responsibilities
+4. Mitigating Circumstances
+5. Interruptions to a Degree
+6. Unauthorised Absence and Short-Term Absence
+7. Official Leave of Absence
+8. Holiday Allowance
+9. Council Tax Exemption
+10. Maternity, Adoption, Paternity, and Unpaid Parental Leave
+11. Sickness
+12. Extensions
+13. Submission Pending
+14. International Students and Immigration
+15. Students Sponsored by External Funding Organisations
+16. Withdrawals and Terminations
+
+
+Change of Circumstances for Postgraduate Research Students Policy
 
 October 2022
 
@@ -22,20 +41,43 @@ October 2022
 
 1.3 This policy is supported by a number of procedural documents which provide further details and guidance related to changes in circumstances for postgraduate research students:
 
-|a. Official Leave of Absence Procedure|This Procedure defines the different options available to a postgraduate research student (PGR) for an official leave of absence (fieldwork, placement, exchange, overseas institutional visit (OIV), and holiday) and their implications on a student’s individual study.|
-|---|---|
-|b. Interruptions Procedure for Postgraduate Research Students|This procedure includes details on managing periods of interruption, the application process and supporting students on their return from interruption.|
-|c. Submission Pending Procedure for Postgraduate Research Students|This procedure includes guidance on the submission pending period, expectations on the student and how a student can apply for this additional period to finish writing up their thesis.|
-|d. Sickness Procedure for Postgraduate Research Students|This procedure provides guidance to postgraduate research students on reporting short-term sickness absence and the necessary steps to be taken on return.|
-|e. Extensions Procedure for Postgraduate Research Students|This procedure provides guidance on how a postgraduate research student can apply for an extension to their degree programme, extension to submission pending and extension to the resubmission period.|
-|f. Withdrawals and Terminations Procedure for Postgraduate Research Students|This procedure provides guidance on the student withdrawal and termination of registration processes.|
-|g. Procedure on Support to Study|This Procedure is to be used to refer students with health or wellbeing issues to support services, including the Occupational Health Service, the Counselling Service or Disability Advisory and Support Service.|
-|h. Procedure on Fitness to Study|This Procedure enables the University to focus expertise, advice and support which could include a temporary cessation of studies on issues of health, behaviours and conduct which require additional support and monitoring.|
-# Change of Circumstances for Postgraduate Research Students Policy
 
-October 2022
+a. Official Leave of Absence Procedure
 
-# Procedure on Supporting Return to Study
+This Procedure defines the different options available to a postgraduate research student (PGR) for an official leave of absence (fieldwork, placement, exchange, overseas institutional visit (OIV), and holiday) and their implications on a student’s individual study.
+
+b. Interruptions Procedure for Postgraduate Research Students
+
+This procedure includes details on managing periods of interruption, the application process and supporting students on their return from interruption.
+
+c. Submission Pending Procedure for Postgraduate Research Students
+
+This procedure includes guidance on the submission pending period, expectations on the student and how a student can apply for this additional period to finish writing up their thesis.
+
+
+d. Sickness Procedure for Postgraduate Research Students
+
+This procedure provides guidance to postgraduate research students on reporting short-term sickness absence and the necessary steps to be taken on return.
+
+e. Extensions Procedure for Postgraduate Research Students
+
+This procedure provides guidance on how a postgraduate research student can apply for an extension to their degree programme, extension to submission pending and extension to the resubmission period.
+
+
+f. Withdrawals and Terminations Procedure for Postgraduate Research Students
+
+This procedure provides guidance on the student withdrawal and termination of registration processes.
+
+
+g. Procedure on Support to Study
+
+This Procedure is to be used to refer students with health or wellbeing issues to support services, including the Occupational Health Service, the Counselling Service or Disability Advisory and Support Service.
+
+h. Procedure on Fitness to Study
+
+This Procedure enables the University to focus expertise, advice and support which could include a temporary cessation of studies on issues of health, behaviours and conduct which require additional support and monitoring.
+
+i. Procedure on Supporting Return to Study
 
 This Procedure ensures students returning to study following suspension of study receive the support they need to meet the required learning outcomes and complete their programme of study whilst taking account of their health and wellbeing going forward.
 
@@ -45,20 +87,22 @@ This Procedure ensures students returning to study following suspension of study
 |1.6|The University will monitor the progress and attendance of all postgraduate research students, and will report any interruption, extension, unauthorised absence, termination or withdrawal from studies to external sponsors and/or the appropriate UK Government agency where required to do so.|
 |1.7|The University will have due regard towards maintaining confidentiality and privacy in relation to any request for change in circumstances but, in order for it to be considered fully, the content will need to be disclosed to members of staff who are involved in putting the Procedure into effect e.g. a Faculty/school graduate office, as well as staff whose input may be required to respond to the issues that a student has raised e.g. the Disability Advisory and Support Service etc. By submitting a request for a change in circumstance the student consents to the disclosure, storage and sharing of information relevant to the change within the University at all stages of the Procedure. If this presents a problem for the student, they may wish to seek advice from the Faculty/School graduate office; not providing consent may however affect the University’s ability to consider the request fully. A copy of the request and associated documents will also be retained in accordance with the University’s Records Retention Schedule.|
 
-# DURATION OF STUDY
+# 2. DURATION OF STUDY
 
 The University of Manchester ordinances and regulations for postgraduate research degrees detail the standard periods of study for part-time and full-time students, which vary in duration according to the type of degree.
 
 For the duration of the degree, students pay the appropriate tuition fees and are fully registered as postgraduate research degree students at the University of Manchester. Students are entitled to full use of University facilities to enable research, including regular supervision, see the Policy on Supervision for Postgraduate Research Degrees for full details.
 
-All students, regardless of the duration of their programme, are expected to complete all postgraduate research degree work, including research and the writing up of the thesis, within the standard period of the programme. Where students who are on 3 year or 3.5 year programmes are unable to submit their
-# Change of Circumstances for Postgraduate Research Students Policy
+All students, regardless of the duration of their programme, are expected to complete all postgraduate research degree work, including research and the writing up of the thesis, within the standard period of the programme. Where students who are on 3 year or 3.5 year programmes are unable to submit their thesis within the registered period of their programme they must apply for a
+submission pending period which must only be for the purpose of completing the
+preparation of the thesis. For this purpose, students are required to apply, register and pay a fee for the submission pending period. Further details can be found in
+the Submission Pending Procedure for Postgraduate Research Students .
 
-October 2022
+# 3. ROLES AND RESPONSIBILITIES
 
-# ROLES AND RESPONSIBILITIES
+3.1 Student responsibilities
 
-# 3.1 Student responsibilities
+The student is responsible for:
 
 - a. Alerting their supervisor to any unforeseen, unavoidable, or personal circumstances that they feel may affect the progression of their research;
 - b. Contacting the appropriate Faculty/School Graduate Office at the earliest opportunity to inform them of any circumstances which may impact on their progression;
@@ -67,21 +111,19 @@ October 2022
 - e. Providing appropriate evidence to support any application for a change to their programme;
 - f. Funded students are responsible for consulting their sponsor and/or the terms and conditions of their funder if the need for a change to their programme becomes apparent.
 
-# 3.2 Supervisor responsibilities
+3.2 Supervisor responsibilities
+
+The supervisor and supervisory team are responsible for:
 
 - a. Determining whether they feel a statement of support is appropriate for a student’s application for a change to their circumstances or programme, and providing this statement as appropriate;
 - b. Discussing options with their student when progression issues arise and informing a student of the changes that are appropriate and available to them in certain circumstances;
 - c. Determining whether referral to appropriate support services is required. See the Referral of Students to University Support Services for Medical or Mental Health Reasons;
 - d. Considering and communicating any appropriate support options available to the student throughout the process and when they confirm that they are returning from interruption;
-# Change of Circumstances for Postgraduate Research Students Policy
-
-October 2022
-
-e. Reporting frequent short absences for medical or other reasons to the appropriate School or Faculty Graduate Office where they are likely to affect a student’s ability to complete their research or submit their thesis on time.
+- e. Reporting frequent short absences for medical or other reasons to the appropriate School or Faculty Graduate Office where they are likely to affect a student’s ability to complete their research or submit their thesis on time.
 
 The University Policy on the Progress and Review of Postgraduate Research Students provides information on policy and procedural issues in relation to the progress and review of postgraduate research students throughout their degree.
 
-# MITIGATING CIRCUMSTANCES
+# 4. MITIGATING CIRCUMSTANCES
 
 a. Any student experiencing mitigating circumstances may be permitted to extend or interrupt their degree or extend their submission pending period / resubmission period by prior approval of the appropriate School or Faculty postgraduate research degrees panel or equivalent.
 
@@ -95,7 +137,7 @@ e. A student cannot submit the same individual request for mitigation more than 
 
 f. Procedures for handling mitigating circumstances need to be clear and easily understood by both staff and students. Requests for mitigation must be processed formally and judged impartially. The procedures need to be applied consistently and in line with this Policy and associated Procedures.
 
-# Examples of mitigating circumstances
+# 4.1 Examples of mitigating circumstances
 
 The following circumstances are typical of what may be considered grounds for applying for an interruption or extension. The circumstances will either prevent the student from working altogether or severely affect his/her ability to work effectively.
 
@@ -104,11 +146,29 @@ a. Significant illness or injury; or worsening of an ongoing illness or disabili
 b. Death or critical/significant illness of a close family member/dependant;
 
 c. Significant family or personal crises or major financial problems leading to acute stress;
-# Change of Circumstances for Postgraduate Research Students Policy
 
-October 2022
+d. Taking on caring responsibilities or a sudden increase in existing caring
+responsibilities.
 
-# Examples of mitigating circumstances due to Covid-19
+e. Unexpected changes to the student’s source of funding leading to stress (NB:
+students must ensure that have the necessary funds before embarking on their
+degree);
+
+f. Breakdown of essential equipment where a student is unable to continue research and the use of alternative equipment is not possible;
+
+g. Delays in obtaining ethical approval where approval has been sought in good time;
+
+h. Absence from the University for public service, for example, jury service;
+
+i. Maternity, adoption or unpaid parental leave (applies to period of interruption only);
+
+j. Delays in progress due to unforeseen problems with the degree programme and/or
+working environment (e.g., moving of offices/buildings, supervisor changes etc.) which are outside of the student’s control. NB: the problem must be reported to the appropriate School or Faculty Graduate Office at the time it occurs;
+
+k. Study leave necessary for the degree programme other than official leave of
+absence for study at an approved institution or fieldwork (applies to period of interruption only.
+
+# 4.1.1 Examples of mitigating circumstances due to Covid-19
 
 |a.|Redeployment to work on COVID-19 related research or other COVID-19 related activity.|
 |---|---|
