@@ -21,11 +21,11 @@ estates strategy
 |estate priorities|26|
 |funding|27|
 |appendices|28|
+
 # executive summary
 
 The Estates Strategy sets out a development framework for The University of Manchester covering a ten year period from 2010 to 2020 focusing on providing the appropriate physical infrastructure to meet the University’s vision Towards Manchester 2015.
 
-1
 
 - The University’s estate is the largest single campus of any Higher Education institution in the UK providing 850,000 m2 with a replacement value in excess of £2 billion.
 - The University has made good progress in its programme to create an environment that will attract and retain the best international scholars and students, as well as providing world-leading facilities for research and high-quality learning environments in line with the aims of the University’s 2015 ambitions with more than £400m already invested in state-of-the-art buildings, major refurbishments and public realm works.
@@ -40,25 +40,40 @@ The Estates Strategy sets out a development framework for The University of Manc
 - The University will execute the Carbon Management Plan to meet ambitious carbon reduction targets.
 - Sustainability will be a key feature of estates developments in line with the University’s goal on Environmental Sustainability.
 - We will investigate alternative ways of procuring energy to supply the campus including the construction of a Combined Heat & Power installation.
+
 # Introduction and Overview
 
 The University of Manchester has made remarkable progress in its ambitious plan to become one of the world’s top 25 universities, and following the latest Research Assessment Exercise, Manchester has already reached the Premier League, third in terms of ‘research power’ behind only Oxford and Cambridge.
 
 Manchester is also the country’s most popular University, receiving 53,900 undergraduate applications last year, more than anywhere else in Britain.
-In the past year, Manchester confirmed its position as a world-leading research centre in the field of nuclear science when a consortium of Serco, Battelle and the University took over the running of the UK National Nuclear Laboratory (NNL). The Lab will play a central role in cleaning up the UK’s nuclear waste legacy and developing a 21st-century capacity for civil nuclear power generation that could prove vital in the transition to a sustainable low-carbon economy.
 
-The merger of UMIST and the Victoria University of Manchester in 2004 provided us with a once in a lifetime opportunity to give our staff and students a truly world-class environment in which to study, live, work, play and learn. It triggered the biggest capital program in the history of Higher Education in this country, creating new high-quality facilities worth £650 million.
+The merger of UMIST and the Victoria University of Manchester in 2004 provided us with a once in a lifetime opportunity to give our staff and students a truly world-class environment in which to study, live, work, play and learn. It triggered the biggest capital programme in the history of Higher Education in this country, creating new high-quality facilities worth £650 million.
 
-More than £400 million has already been invested in state-of-the-art buildings and major refurbishments completed to program and within budget, including University Place, the new £65 million flagship building for the University with its distinctive rotunda on Oxford Road, which has become a focal point for major events and a point of first contact for prospective students and members of the public.
+More than £400 million has already been invested in state-of-the-art buildings and major refurbishments completed to programme and within budget, including University Place, the new £65 million flagship building for the University with its distinctive rotunda on Oxford Road, which has become a focal point for major events and a point of first contact for prospective students and members of the public.
 
 The new environment will attract the best international scholars and students, as well as providing world-leading facilities for research and high-quality learning environments in line with the aims of the University’s 2015 ambitions. The University already attracts world-renowned researchers and boasts 23 Nobel Prize winners amongst its current and former staff and students. A world-class campus will help us to continue this tradition.
 
 The University of Manchester is Britain's largest single-site university with a proud history of achievement and an ambitious agenda for the future.
 
-In health care, the University’s research strength was recognized by the Government last year when the Manchester Academic Health Science Centre (MAHSC) was awarded official national status. We are one of just five national centers, and the only one outside London and Cambridge.
+In the past year, Manchester confirmed its position as a world-leading research centre in the field of nuclear science when a consortium of Serco, Battelle and the University took over the running of the UK National Nuclear Laboratory (NNL). The Lab will play a central role in cleaning up the UK’s nuclear waste legacy and developing a 21st-century capacity for civil nuclear power generation that could prove vital in the transition to a sustainable low-carbon economy.
+
+In health care, the University’s research strength was recognised by the Government last year when the Manchester Academic Health Science Centre (MAHSC) was awarded official national status. We are one of just five national centres, and the only one outside London and Cambridge.
+
 And The University of Manchester continues to lead the way in technology transfer and wealth creation; last year we launched a unique £32 million late-seed venture fund designed to boost investment in intellectual property generated by research at the University. The University now boasts an annual income of more than £700 million and a total research expenditure of £375 million.
 
 As we look to build from this position of strength, we know the need to create a world-class campus for our staff, students, and visitors. The concept that underpins all aspects of the University’s Estates Strategy is the creation of the urban university, a place of fine urban architecture, civilised urban spaces, walks and streets that interconnect with all parts of the University and integrate us with the surrounding city.
+
+The academic imperative - to generate new
+forms of knowledge through interdisciplinary
+research, and for this research to be embedded
+in the knowledge economy of Manchester - is
+also embraced by the concept of the urban
+university. The University of Manchester is
+evolving into a civilised, diverse urban district of Manchester, a place for research, learning,
+debate, conversation, culture and immense
+interaction both within the academic
+community and with the city at large.
+
 # Estates Strategy Aims and Objectives
 
 The Estates Strategy aims to support the University’s strategic plan, Advancing the Manchester 2015 Agenda:
@@ -74,75 +89,129 @@ The Estates Strategy aims to support the University’s strategic plan, Advancin
 - Contributing to the University’s carbon reduction targets
 - Securing internationally competitive funding
 
-The Estates Strategy analyses the existing estate, identifying problems and opportunities, and prioritizing major works. As we move into the next decade, it is likely that we will not see major expansion of the University. Indeed, it is possible that we might see the institution becoming smaller but stronger, and we will plan to have an estate to support these needs.
+The Estates Strategy analyses the existing estate, identifying problems and opportunities, and prioritising major works. As we move into the next decade, it is likely that we will not see major expansion of the University, indeed it is possible that we might see the institution becoming smaller but stronger, and we will plan to have an estate to support these needs.
 
 We will therefore not be looking to expand the size of the estate but to provide the best quality environment that we can to support the University’s needs.
 
 In broad terms, the aims of the Estates Strategy are:
 
-- To provide a physical environment to create a sense of place and through the medium of architecture and urban design reflect the University’s academic ideals.
-- To ensure that the estate meets all Health & Safety, statutory, regulatory, and HEFCE requirements.
-- To ensure that all property comprising estate is properly maintained to an appropriate and agreed standard.
-- To obtain best value from and for estates assets.
-- To ensure that the estate and buildings meet the University’s research, teaching and learning, academic, service, and social needs.
-- To provide a basis for capital planning and to identify priorities for property investment.
-- To give the University the flexibility to adjust to changing circumstances and respond to external initiatives.
-- To provide a development context and urban design framework to manage future developments.
-- To complete development programs to agreed time, cost, and quality targets.
-- To ensure the University achieves targets as set out in its carbon management plans.
-- To increase the quality of the estate measured by the proportion being in category A or B (HESA Estate Management Statistics).
-- To improve the functional suitability of the estate measured by the proportion being in category 1 or 2 (HESA Estate Management Statistics).
+- To provide a physical environment to create a sense of place and through the medium of architecture and urban design reflect the University’s academic ideals
+- To ensure that the estate meets all Health & Safety, statutory, regulatory, and HEFCE requirements
+- To ensure that all property comprising estate is properly maintained to an appropriate and agreed standard
+- To obtain best value from and for estates assets
+- To ensure that the estate and buildings meet the University’s research, teaching and learning, academic, service, and social needs
+- To provide a basis for capital planning and to identify priorities for property investment
+- To give the University the flexibility to adjust to changing circumstances and respond to external initiatives
+- To provide a development context and urban design framework to manage future developments
+- To complete development programmes to agreed time, cost, and quality targets
+- To ensure the University achieves targets as set out in its carbon management plans
+- To increase the quality of the estate measured by the proportion being in category A or B (HESA Estate Management Statistics)
+- To improve the functional suitability of the estate measured by the proportion being in category 1 or 2 (HESA Estate Management Statistics)
+
+
 # progress since 2004
 
-The 2004 Estates Strategy and Masterplan was produced leading up to the merger and was based on the concept of the creation of an urban university, a place of fine urban architecture, civilised urban spaces, walks and streets that interconnect all parts of the University and integrate it with the surrounding city.
+The 2004 Estates Strategy and Masterplan was produced leading up to merger and was based on the concept of the creation of an urban university, a place of fine urban architecture, civilised urban spaces, walks and streets that interconnect all parts of the University and integrate it with the surrounding city.
 
-|The key drivers for the 2004 document were:|The strategy represented the largest capital construction programme in the history of British higher education and has transformed a major part of the estate providing excellent buildings and infrastructure fit for a 21st century learning environment. The competed projects include:|
-|---|---|
-|• to deliver a cohesive campus|• Environmental Science accommodation - £2.8m|
-|• co-location of duplicate cognate units|• Library/Archive refurbishment - £2.8m|
-|• co-location of new academic groupings which promote an interdisciplinary agenda|• Central food preparation unit - £2.7m|
-|• the development of new synergies for research and teaching by locating existing dispersed elements together in appropriate accommodation|• New sports pavilion - £2.5m|
-|• improving building condition|• Refurbishment for Computer science - £2.4m|
-|• improving functional suitability|• Rutherford building refurbishment £2.3m|
-| |• Electro-acoustics studio - £2.2m|
-| |• Biomedical Teaching laboratories - £2m|
-| |• Centre for Excellence in Enquiry Based Learning - £1.9m|
-| |• Centre for Educational Leadership - £1.5m|
-| |• Landscape depot - £1.5m|
-| |• Long term maintenance major projects - £50m|
-| |• Chemistry building refurbishment and extension - £14m|
-| |• Upper floors of the CTF - £10m|
-| |• Multi Story car park - £10m|
-| |• Infrastructure works - £8m|
-| |• Public Realm works - £8m|
-| |• Relocation of MACE - £7.5m|
-# The overall programme of works
+The key drivers for the 2004 document were:
+
+- to deliver a cohesive campus
+- co-location of duplicate cognate units
+- co-location of new academic groupings which promote an interdisciplinary agenda
+- the development of new synergies for research and teaching by locating existing dispersed elements together in appropriate accommodation
+- improving building condition
+- improving functional suitability
+
+The strategy represented the largest capital construction programme in the history of British higher education and has transformed a major part of the estate providing excellent buildings and infrastructure fit for a 21st century learning environment. The competed projects include:
+
+- University Place - £65m
+- Alan Turing Building - £60m
+- John Garside Building (Manchester
+Interdisciplinary Biocentre) – £40m
+- A V Hill Building - £40m
+- Arthur Lewis building £32m
+- Biological Science Unit - £30m
+- Completion of the Michael Smith Building -
+£20m
+- Relocation of the school of Pharmacy - £18m
+- Refurbishment and extension of the John
+Rylands University Library, Deansgate - £18m
+- Chemistry building refurbishment and
+extension - £14m
+- Upper floors of the CTF - £10m
+- Multi Story car park - £10m
+- Infrastructure works - £8m
+- Public Realm works - £8m
+- Relocation of MACE - £7.5m
+- Environmental Science accommodation -
+£2.8m
+- Library/Archive refurbishment - £2.8m
+- Central food preparation unit - £2.7m
+- New sports pavilion - £2.5m
+- Refurbishment for Computer science -
+£2.4m
+- Rutherford building refurbishment £2.3m
+- Electro-acoustics studio - £2.2m
+- Biomedical Teaching laboratories - £2m
+- Centre for Excellence in Enquiry Based  Learning - £1.9m
+- Centre for Educational Leadership - £1.5m
+- Landscape depot - £1.5m
+- Long term maintenance major projects - £50m
 
 The overall programme of works was completed on time and within budget with some of the projects receiving critical acclaim in the following awards:
 
-|Award|Year|Project|
-|---|---|---|
-|Royal Institution of Chartered Surveyors Property Management of the Year Award|2006|Property Strategy and Delivery|
-|British Council of Offices Regional Award Winner|2009|A.V.Hill Building|
-|Greater Manchester Chamber of Commerce Building of the Year Finalist|2008|A.V.Hill Building|
-|Greater Manchester Chamber of Commerce Building of the Year Finalist|2007|Alan Turing Building|
-|Construction Manager of the Year Award Silver Medalist| |Alan Turing Building|
-|Local Authority Building Control Award|2007|Manchester Interdisciplinary Biocentre|
-|North West Regional Structural Award|2007|Manchester Interdisciplinary Biocentre|
-|Greater Manchester Chamber of Commerce Building of the Year|2007|John Rylands Library, Deansgate|
-|Greater Manchester Chamber of Commerce Building of the Year Finalist|2007|Arthur Lewis Building|
-|Greater Manchester Chamber of Commerce Building of the Year|2006|Manchester Interdisciplinary Biocentre|
+- Royal Institution of Chartered Surveyors
+Property Management of the Year Award
+2006 for Property Strategy and Delivery
+- British Council of Offices Regional Award
+Winner 2009 – A.V.Hill Building
+- Greater Manchester Chamber of Commerce
+Building of the Year Finalist 2008 – A.V.Hill
+Building
+- Greater Manchester Chamber of Commerce
+Building of the Year Finalist 2007 – Alan
+Turing Building
+- Construction Manager of the Year Award
+Silver Medalist – Alan Turing Building
+- Local Authority Building Control Award
+2007 – Manchester Interdisciplinary
+Biocentre
+- North West Regional Structural Award 2007
+– Manchester Interdisciplinary Biocentre
+- Greater Manchester Chamber of Commerce
+Building of the Year 2007 – John Rylands
+Library, Deansgate
+- Greater Manchester Chamber of Commerce
+Building of the Year Finalist 2007 – Arthur
+Lewis Building
+- Greater Manchester Chamber of Commerce
+Building of the Year 2006 – Manchester
+Interdisciplinary Biocentre
+- HEDQF Exhibition 2007 – Manchester
+Interdisciplinary Biocentre
+- NW Regional Construction Award for
+Sustainability Winner 2007 – Alan Turing
+Building
+- Building and Engineering Energy Efficient
+Project of the Year 2007 – Alan Turing
+Building
+- Building and Engineering Public Project of
+the Year Finalist 2007 – Alan Turing Building
+- Royal Institution of Chartered Surveyors NW
+Sustainability Award 2008 Finalist – Alan
+Turing Building
+- Manchester Society of Architects 2008
+Commendation – Michael Smith Building
+- HEDQF Exhibition 2009 – Public Realm
 
-# Awards for Alan Turing Building
-
-|Award|Year|
-|---|---|
-|NW Regional Construction Award for Sustainability Winner|2007|
-|Building and Engineering Energy Efficient Project of the Year|2007|
-|Building and Engineering Public Project of the Year Finalist|2007|
-|Royal Institution of Chartered Surveyors NW Sustainability Award Finalist|2008|
-
-# Properties sold
+The 2004 Estates Strategy envisaged the
+construction of new buildings and, particularly
+following co-location, the strategic release of
+older buildings for disposal to reduce the
+overall size of the estate and realise assets to
+fund the ongoing development programme.
+This has resulted in the following properties
+being sold:
 
 - Chandos Hall
 - Echo Street Nursery and stores
@@ -150,6 +219,7 @@ The overall programme of works was completed on time and within budget with some
 - Manchester Conference Centre
 - The Tabley Estate
 - Weston Hall
+
 # The current estate
 
 The estate comprises 850,000 sq m gross internal area (GIA) on grounds covering 288 hectares. There are 347 buildings, 144 of which form the residential estate. The main academic estate is located south of the city centre situated in an area known as the Manchester Corridor and its close neighbours are the Manchester Metropolitan University (MMU), the Central Manchester Healthcare Trust, and the Royal Northern College of Music.
