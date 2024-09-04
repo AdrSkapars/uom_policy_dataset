@@ -230,6 +230,17 @@ The main campus is fairly compact in relation to the number of buildings situate
 
 The estate also comprises five other sites, excluding accommodation embedded in regional hospitals, namely:
 
+- Jodrell Bank
+- Fallowfield residential campus
+- Patterson Institute for Cancer Research, Didsbury
+- Victoria Park residential campus
+- Wolfson Molecular Imaging Centre, Didsbury
+
+A sixth site will be added during 2011 when the Dalton-Cumbria Facility is completed at Westlakes Science and Technology Park in West Cumbria.
+
+Approximately 50% of space occupied by the Faculty of Medical & Human Sciences is
+embedded in hospitals as follows:
+
 |Building|Area m2|
 |---|---|
 |Ashworth Hospital|154|
@@ -251,71 +262,13 @@ The estate also comprises five other sites, excluding accommodation embedded in 
 |Wythenshawe Hospital|1,103|
 |Total|12,205|
 
-A sixth site will be added during 2011 when the Dalton-Cumbria Facility is completed at Westlakes Science and Technology Park in West Cumbria.
-# Oxford Road Station
+*there's a campus map in the policy*
 
-Granby RowGranby RowGranby RowSackville StreetSackville StreetSackville StreetPrincess StreetPrincess StreetPrincess StreetPiccadillyGranby RowGranby RowGranby RowCharles StreetCharles StreetCharles StreetRailway ViaductRailway ViaductRailway Viaduct
-
-|Multi-Storey|Multi-Storey|The Gatehouse|
-|---|---|
-|The Gatehouse|The Gatehouse| |
-|Car Park|A|Sackville Street|
-|Sackville Street| | |
-|Sackville Street| | |
-|To City Centre|BBC| |
-|BBC| | |
-|BBC| | |
-|Altrincham Street| | |
-|Altrincham Street| | |
-
-Sackville StreetSackville StreetSackville StreetSackville StreetSackville StreetSackville StreetBrook StreetBrook StreetBrook StreetMancunian WayMancunian Way A57(M)Mancunian Way A57(M)Sydney StreetSydney StreetSydney StreetGrosvenor StreetGrosvenor StreetGrosvenor Street
-
-|85| | | | | | |23| | |7|
-|---|---|---|---|---|---|---|---|---|---|---|
-| | | | |York Street| | | | | | |
-| | | | |York Street| | | | | | |
-| | | | |York Street| | | | | | |
-| | | | | | | | |A34 Upper Brook Street| | |
-| | | |Aquatics| | | | | | | |
-| | | |Aquatics| | | | | | | |
-| | | |Aquatics| | | | | | | |
-| |Rosamond Street West| | | | | | | | | |
-| |Rosamond Street West| | | | | | | | | |
-| |Rosamond Street West| | | | | | | | | |
-| |Royal Northern| | | | | | | | | |
-| |Royal Northern| | | | | | | | | |
-| |Royal Northern| | | | | | | | | |
-| |College of Music| | | | | | | | | |
-| |College of Music| | | | | | | | | |
-| |College of Music| | | | | | | | | |
-| |Booth Street West| | | | | | | | | |
-| |Booth Street West| | | | | | | | | |
-| |Booth Street West| | | | | | | | | |
-
-Higher Cambridge StreetHigher Cambridge StreetHigher Cambridge StreetMulti-Storey Car ParkMulti-Storey Car ParkMulti-Storey Car ParkWilston StreetWilston StreetWilston StreetBridgeford StreetBridgeford StreetBridgeford StreetOxford RoadOxford RoadOxford RoadCoupland StreetCoupland StreetCoupland Street
-
-Cecil StreetCecil StreetCecil StreetCecil StreetCecil StreetCecil StreetDilworth StreetDilworth StreetDilworth StreetDilworth StreetDilworth StreetDilworth StreetDenmark RoadDenmark RoadDenmark RoadBurnleigh StreetBurnleigh StreetBurnleigh Street
-
-# (See inset map)
-
-# Manchester Science Park
-
-Pencroft WayPencroft WayPencroft WayLloyd StreetLloyd StreetLloyd StreetManchesterManchesterManchester
-
-# Manchester Royal Eye Infirmary
-
-Dulcie GroveDulcie GroveDulcie GroveDenmark RoadDenmark RoadDenmark RoadManchester Royal InfirmaryManchester Royal InfirmaryManchester Royal Infirmary
-
-# Post Office St. Mary's Hospital
-
-To Fallowfield and Victoria Park Halls of ResidencesTo Fallowfield and Victoria Park Halls of ResidencesTo Fallowfield and Victoria Park Halls of ResidencesHathersage RoadHathersage RoadHathersage RoadPost Office St. Mary's HospitalPost Office St. Mary's HospitalPost Office St. Mary's Hospital
 # the future and proposals - masterplan
 
 The 2004 masterplan set out a number of overriding principles for the development of the new University. Those principles established a set of urban design and masterplan ‘rules’ developed through a process of discussion and close collaboration with the Manchester City Council and they have been successfully adopted as the capital programme has been implemented. In 2010 the guiding principles remain valid and will be adopted for the current strategy (appendix A).
 
-# The creation of three major zones
-
-Biomedical, Engineering & Physical Sciences and Humanities – was a key concept underlying the 2004 plan. The concept still holds good with two major changes relating to the north campus and Whitworth Park residences.
+The creation of three major zones - Biomedical, Engineering & Physical Sciences and Humanities – was a key concept underlying the 2004 plan. The concept still holds good with two major changes relating to the north campus and Whitworth Park residences.
 
 The concept has been reinforced as the capital programme has developed and has seen a planned geographical shift for a number of Schools. This has meant that there are fewer Schools in that area of the campus north of the Mancunian Way and they are, in the main, occupying buildings with significant problems in respect of condition, functionality and space utilisation.
 
@@ -341,28 +294,19 @@ As the current phase of capital works is concluded a number of buildings will be
 - Moffat
 - Morton
 
-# To execute this plan the following projects will be necessary:
+To execute this plan the following projects will be necessary:
 
-|Stage 1|Refurbishment of Dover Street new wing for Optometry to vacate Moffatt building (completion Easter 2011)|
+|Stage 1|Refurbishment of Dover Street new wing for Optometry to vacate Moffatt building (completion Easter 2011) Phase I CEAS Upper Brook Street/Booth Street East to vacate the Morton Laboratories and part of the Mill (completion summer 2011)|
 |---|---|
-|Stage 2|Phase 1 CEAS Upper Brook Street/Booth Street East to vacate the Morton Laboratories and part of the Mill (completion summer 2011)|
+|Stage 2|Phase II CEAS, Upper Brook Street/Booth Street East to vacate part of the Mill|
 |Stage 3|Extension to the Materials building, Upper Brook Street to relocate the remainder of the School of Materials from The Mill, Sackville Building and Paper Science|
 |Stage 4|New build or refurbishment for Electrical & Electronic Engineering to vacate Sackville Building and Ferranti building|
 |Stage 5|New build for MACE to vacate George Begg and Pariser buildings|
 
 The completion of these phases will vacate the land north of the Mancunian Way and the property can then be sold.
-|2004 Masterplan concept diagram|2004 Masterplan concept diagram|
-|---|
-|KnowledgeCapital|9|
-|Live|MMU|
-|and Physical Engineering|Live1|
-|Humanities| |
-|Medical and Life Sciences| |
-|SciencePark| |
-|Live|MRI|
-|Recovering high street| |
-|Cultural axis| |
-|Research and transport axis| |
+
+*there's a map in the policy: 2004 Masterplan concept diagram*
+
 # the future and proposals - masterplan
 
 These buildings will be in the first phase of properties to be taken to the market. It must be recognized that there will be issues in the transitional periods as Schools relocate. To alleviate this and bring some life and vibrancy into the area the first disposal will be Faraday and Faraday UG buildings for which a planning brief has been agreed with the City Council for the construction of up to 1900 student bedrooms (shown hatched blue on the plan in Appendix B).
