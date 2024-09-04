@@ -258,16 +258,11 @@ a. For details on how to apply for a period of interruption for the purpose of m
 
 # 10.2 Paternity leave allowance
 
-a. A total of 14 days (including weekends and public holidays) paternity leave may be taken. The program end date may be extended by this period of time dependent on the terms and conditions of your funder.
+a. A total of 14 days (including weekends and public holidays) paternity leave may be taken. The programme end date may be extended by this period of time dependent on the terms and conditions of your funder.
 
 b. In the case of adoption leave, a total of 14 days (including weekends and public holidays) leave may be taken to support the primary carer.
 
 c. Paternity leave cannot start before and must be completed within 56 days (including weekends and public holidays) of the child’s birth / placement.
-# Change of Circumstances for Postgraduate Research Students Policy
-
-October 2022
-
-# 10. Paternity Leave
 
 d. The 14 days of paternity leave must be taken in one block.
 
@@ -295,35 +290,35 @@ Students who have experienced mitigating circumstances may apply for an extensio
 
 All students, regardless of the duration of their programme, are expected to complete all postgraduate research degree work, including research and the writing up of the thesis, within the standard period of the programme. Where students are unable to submit their thesis within the registered period of their programme they must apply for a submission pending period which must only be for the purpose of completing the preparation of the thesis. For this purpose, students are required to apply, register and pay a fee.
 
-1 Students wishing to apply for a submission pending period should contact the appropriate Faculty/School Graduate Office.
-# Change of Circumstances for Postgraduate Research Students Policy
-
-October 2022
+Students wishing to apply for a submission pending period should contact the appropriate Faculty/School Graduate Office.
 
 Students wishing to apply for a submission pending period should refer to the Submission Pending Procedure for Postgraduate Researchers and contact the appropriate Faculty/School Graduate Office.
 
-# INTERNATIONAL STUDENTS AND IMMIGRATION
+# 14. INTERNATIONAL STUDENTS AND IMMIGRATION
 
 New international postgraduate research degree students arriving on a student visa will obtain immigration permission for the standard duration of the degree plus one year for preparation of the thesis (if the degree allows a submission pending period), plus 3 months for the viva (if the degree has a viva), plus an additional four months (automatically added by the UK Government agency responsible for immigration control to all degrees over one year’s duration). Therefore, the normal duration of a student’s immigration permission for a postgraduate research degree will vary depending on the degree, as follows:
 
-a. one year plus four months for MEnt and MSc by Research;b. one and a half years plus four months MPhil;c. three years plus 3 months for viva, plus four months for ChM and MD;d. four years plus 3 months for viva, plus four months for PhD, Professional, Engineering and Enterprise Doctorates;
+a. one year plus four months for MEnt and MSc by Research;
+
+b. one and a half years plus four months MPhil;
+
+c. three years plus 3 months for viva, plus four months for ChM and MD;
+
+d. four years plus 3 months for viva, plus four months for PhD, Professional, Engineering and Enterprise Doctorates;
 
 In order to extend their immigration permission for a further period as a result of an interruption or extension, students should approach the appropriate School or Faculty graduate office to arrange a CAS from the University, which is needed for an application for a visa extension.
 
 International students are advised to contact the Student Immigration Team in the Student Services Centre for further advice on visa applications. Contact details and further information can be found in the Immigration section of the University’s Student Support website.
 
-# STUDENTS SPONSORED BY EXTERNAL FUNDING ORGANISATIONS
+# 15. STUDENTS SPONSORED BY EXTERNAL FUNDING ORGANISATIONS
 
 a. If students are absent for more than two weeks without authorisation, the appropriate School or Faculty graduate office will inform the relevant Research Council or sponsoring body.
 
 b. Students who are funded directly from a Research Council (i.e. a non-Doctoral Training Grant award) or other external funding organisation (i.e., overseas sponsor, private company, etc.) should carefully consult the regulations of their sponsor if they feel that an interruption or an extension to their studies may be necessary. Students are bound by the regulations of the sponsor and must therefore check that they are complying with both the regulations stipulated by the sponsor and the University of Manchester.
 
-# WITHDRAWALS AND TERMINATIONS
+# 16. WITHDRAWALS AND TERMINATIONS
 
-# Withdrawal from Study
-# Change of Circumstances for Postgraduate Research Students Policy
-
-October 2022
+# 16.1 Withdrawal from Study
 
 a. Students are permitted to withdraw from their degree at any time and for any reason, but are reminded that any outstanding tuition fees or outstanding charges must be paid. Students are advised to carefully consider any decision to withdraw and should first discuss the matter with their supervisor, advisor, or other appropriate member of their supervisory team.
 
@@ -339,6 +334,7 @@ c. International students on a student visa should note that they are in breach 
 
 d. Further information on the process of termination can be found in the Withdrawals and Terminations Procedure for Postgraduate Research Students.
 
+**Version amendment history**
 |Version|Date|Reason for change|
 |---|---|---|
 |4|3 June 2020|Addition of COVID-19 Mit Circs|
@@ -348,9 +344,6 @@ Document Control Box
 Policy / Procedure title: Change of Circumstances for Postgraduate Researchers Policy
 
 Lead contact email: Alex.hinchliffe@manchester.ac.uk
-# Change of Circumstances for Postgraduate Research Students Policy
-
-October 2022
 
 Date updated: June 2020
 
@@ -366,18 +359,21 @@ Next review date: September 2023
 
 Equality impact outcome:
 
-Related Statutes, Ordinances, General Regulations:
+Related Statutes, Ordinances, General Regulations: Regulations for Postgraduate Research Students
 
-Related policies/procedures/guidance etc.
+Related policies/procedures/guidance etc. If your policy links to other documents at the University, list them here:
 
-Policy owner: Regulations for Postgraduate Research Students
+- Extensions Procedure for Postgraduate Research Students
+- Extensions due to COVID-19 Procedure for Postgraduate Researchers
+- Interruptions Procedure for Postgraduate Research Students
+- Official Leave of Absence for Postgraduate Research Students
+- Sickness Procedure for Postgraduate Research Students
+- Submission Pending Procedure for Postgraduate Research Students
+- Withdrawals and Terminations Procedure for Postgraduate Research Students
+- Supervision Policy for Postgraduate Research Degrees
+- Policy on the Progress and Review of 
+- Postgraduate Research Students
+
+Policy owner: Alex Hinchliffe, Research Degrees and Researcher Development Officer
 
 Lead contact: Alex Hinchliffe, Research Degrees and Researcher Development Officer
-
-If your policy links to other documents at the University, list them here:
-
-Extensions Procedure for Postgraduate Research StudentsExtensions due to COVID-19 Procedure for Postgraduate ResearchersInterruptions Procedure for Postgraduate Research StudentsOfficial Leave of Absence for Postgraduate Research StudentsSickness Procedure for Postgraduate Research StudentsSubmission Pending Procedure for Postgraduate Research StudentsWithdrawals and Terminations Procedure for Postgraduate Research StudentsSupervision Policy for Postgraduate Research DegreesPolicy on the Progress and Review of Postgraduate Research Students
-
-Alex Hinchliffe, Research Degrees and Researcher Development Officer
-
-Alex Hinchliffe, Research Degrees and Researcher Development Officer
