@@ -179,19 +179,26 @@ absence for study at an approved institution or fieldwork (applies to period of 
 |f.|Specific impact resulting from remote working as a result of a disability or any other protected characteristics.|
 |g.|Any other considerations that can be specifically attributed to COVID-19 and evidenced in the case.|
 
-# Examples of circumstances not normally considered to be mitigating
+# 4.2 Examples of circumstances not normally considered to be mitigating
 
 The following circumstances will not normally be regarded as grounds for applying for an interruption or an extension. This list is not exhaustive; it is intended to give an idea of what is not considered as a mitigating circumstance:
 
 - a. The student or supervisor was unaware of policy and application procedures for interruptions and/or extensions for postgraduate degrees;
 - b. Further primary research and/or laboratory work;
-# Change of Circumstances for Postgraduate Research Students Policy
+- c. Voluntary service overseas;
+- d. Expeditions/sport;
+- e. Long-term holidays/vacations;
+- f. Inadequate planning and time management;
+- g. Normal pregnancy (excluding standard maternity leave entitlement and events which may arise during pregnancy that may constitute a mitigating circumstance);
+- h. Difficulties with English language (including delays as a result of proofreading);
+- i. Computer or other equipment failure or theft where use of an alternative is possible or any loss of work was avoidable, except where the work is lost through the failure of University of Manchester systems as confirmed by School or Manchester Computing staff;
+- j. Change in employment conditions: applications from part-time students who are working while studying may exceptionally be considered where a change in employment conditions was unforeseen;
+- k. Lack of sufficient funds;
+- l. Holidays, moving house and events that were planned or could reasonably have been expected;
+- m. The act of religious observance;
+- n. Consequences of paid employment.
 
-October 2022
-
-c. Voluntary service overseas;d. Expeditions/sport;e. Long-term holidays/vacations;f. Inadequate planning and time management;g. Normal pregnancy (excluding standard maternity leave entitlement and events which may arise during pregnancy that may constitute a mitigating circumstance);h. Difficulties with English language (including delays as a result of proofreading);i. Computer or other equipment failure or theft where use of an alternative is possible or any loss of work was avoidable, except where the work is lost through the failure of University of Manchester systems as confirmed by School or Manchester Computing staff;j. Change in employment conditions: applications from part-time students who are working while studying may exceptionally be considered where a change in employment conditions was unforeseen;k. Lack of sufficient funds;l. Holidays, moving house and events that were planned or could reasonably have been expected;m. The act of religious observance;n. Consequences of paid employment.
-
-# Evidence to support an application due to mitigating circumstances
+# 4.3 Evidence to support an application due to mitigating circumstances
 
 a. In most cases evidence demonstrating the impact of circumstances on the student will be required. Applications for a change in circumstance should therefore normally be accompanied by an appropriate third party independent supporting or collaborative document. In the cases of illness of a close family member of the student, or injury or distress caused to the student by an accident or criminal act against the student, a doctor’s note or other document which details the circumstance of the incident (such as a police incident report) will usually be considered acceptable evidence.
 
@@ -199,10 +206,7 @@ b. The supervisor may provide a letter as evidence in situations where students 
 
 c. The University will consider what kind of evidence might be provided for other circumstances on an individual case by case basis.
 
-# INTERRUPTIONS TO A DEGREE
-# Change of Circumstances for Postgraduate Research Students Policy
-
-October 2022
+# 5. INTERRUPTIONS TO A DEGREE
 
 # 5.1 Interruption of studies
 
@@ -216,11 +220,11 @@ October 2022
 
 # 5.2 Interrupting due to sickness
 
-For periods of sickness of more than four weeks duration, the student may request to formally interrupt their studies or consider a change from full time to part-time status (if appropriate to the program). Further information can be found in the Interruptions Procedure for Postgraduate Research Students document.
+For periods of sickness of more than four weeks duration, the student may request to formally interrupt their studies or consider a change from full time to part-time status (if appropriate to the programme). Further information can be found in the Interruptions Procedure for Postgraduate Research Students document.
 
 # 6. UNAUTHORISED ABSENCE AND SHORT-TERM ABSENCE
 
-Students are not permitted to be absent without prior consent. Students must always report any absence to their supervisor, another member of their supervisory team, or appropriate School or Faculty Graduate Office. The supervisor and other members of the supervisory team must report student absence to the appropriate School or Faculty Graduate Office.
+Students are not permitted to be absent without prior consent. Students must always report any absence to their supervisor, other member of their supervisory team, or appropriate School or Faculty Graduate Office. The supervisor and other members of the supervisory team must report student absence to the appropriate School or Faculty Graduate Office.
 
 # 7. OFFICIAL LEAVE OF ABSENCE
 
@@ -229,9 +233,6 @@ Students may be permitted a leave of absence to undertake activities defined in 
 The definitions and process for applying for an official leave of absence can be found in the Official Leave of Absence Procedure for Postgraduate Research Students document.
 
 The relevant individual degree ordinances and regulations give circumstances in which study away from the University may be permitted.
-# Change of Circumstances for Postgraduate Research Students Policy
-
-October 2022
 
 # 8. HOLIDAY ALLOWANCE
 
@@ -243,7 +244,9 @@ a. Students must be registered full-time in order to be entitled to Council Tax 
 
 b. Full-time students who are extending the standard period of their degree or entering or extending the submission pending period will normally be eligible for Council Tax exemption.
 
-c. Students taking a period of interruption for the purpose of maternity or adoption are still eligible for continued Council Tax exemption. A student is only entitled to council tax exemption during submission pending if they were previously full-time on their original program of study.
+c. Students taking a period of interruption for the purpose of maternity or adoption are still eligible for continued Council Tax exemption. 
+
+A student is only entitled to council tax exemption during submission pending if they were previously full-time on their original programme of study.
 
 # 10. MATERNITY, ADOPTION and PATERNITY ENTITLEMENTS
 
