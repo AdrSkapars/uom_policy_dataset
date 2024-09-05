@@ -55,9 +55,9 @@ iii.  Misrepresentation of interests, including failure to declare competing int
 iv.  Misrepresentation of qualifications, experience and/or credentials.
 v. Undisclosed duplication of publication (self-plagiarism), including undisclosed duplicate submission of manuscripts for publication.
 
-Improper dealing with allegations of research misconduct: failure to address possible infringements, such as attempts to cover up misconduct and reprisals against whistle-blowers, or failing to adhere appropriately to agreed procedures in the investigation of alleged research misconduct accepted as a condition of funding.
+f) Improper dealing with allegations of research misconduct: failure to address possible infringements, such as attempts to cover up misconduct and reprisals against whistle-blowers, or failing to adhere appropriately to agreed procedures in the investigation of alleged research misconduct accepted as a condition of funding.
 
-Multiple/serial instances of poor research practice that collectively amount to significant deviation from accepted practice.
+g) Multiple/serial instances of poor research practice that collectively amount to significant deviation from accepted practice.
 
 Honest errors and differences in, for example, research methodology or interpretation do not constitute research misconduct.
 
