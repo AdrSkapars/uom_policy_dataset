@@ -63,9 +63,9 @@ Honest errors and differences in, for example, research methodology or interpret
 
 Poor research practice includes, but is not limited to, the following:
 
-- Failure to give appropriate recognition to others involved in research activity where this does not constitute plagiarism as defined above;
-- Deviation from current accepted practice in carrying out research where this does not fit into any category described above;
-- Mismanagement or inadequate preservation of data and/or primary materials where this does not fit criteria d) vi above.
+h) Failure to give appropriate recognition to others involved in research activity where this does not constitute plagiarism as defined above;
+i) Deviation from current accepted practice in carrying out research where this does not fit into any category described above;
+j) Mismanagement or inadequate preservation of data and/or primary materials where this does not fit criteria d) vi above.
 
 # The University’s Expectations of its Researchers
 
