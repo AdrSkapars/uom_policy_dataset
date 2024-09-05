@@ -137,11 +137,11 @@ Researchers are expected to make themselves aware of, and comply with, any legis
 Code of Good Research Conduct, Version 2.1, May 2022
 
 Page 4 of 5
-# Data Protection
+Data Protection
 
-# Clinical Trials Regulations
+Clinical Trials Regulations
 
-# Human Tissue Act
+Human Tissue Act
 
 # Professional standards
 
