@@ -153,20 +153,25 @@ Researchers should be aware of the extreme seriousness of research misconduct. S
 
 |Document control box| | | |
 |---|---|---|---|
-|Policy title:| | | |
-|Date approved:| | | |
-|Approving body:| | | |
-|Version:| | | |
-|Supersedes:| | | |
-|Previous review dates:| | | |
-|Next review date:| | | |
-|Related Statutes, Ordinances, General Regulations:| | | |
-|Equality relevance outcome:| | | |
-|Related policies:| | | |
-|Related procedures:| | | |
-|Related guidance and or codes of practice:| | | |
-|Related information:| | | |
-|Policy owner|Lead contact| | |
+|Policy title:| Code of Good Research Conduct
+|Date approved:|  10 May 2022
+|Approving body:|Planning and Resources Committee
+|Version:|2.1
+|Supersedes:| 2.0 
+|Previous review dates:|  October 2006, February 2020, February 2022
+|Next review date:| May 2025
+|Related Statutes, Ordinances, General Regulations:|Statute XIII, Ordinance XXIV and Regulation XVII
+|Equality relevance outcome:| Medium
+|Related policies:|
+Code of Practice for Investigating Concerns about the Conduct in Research
+Policy on Ethical Involvement of Human Participants in Research
+Policy on the use of Animals in Research
+Dignity at Work and Study Policy
+|Related procedures:|N/A
+|Related guidance and or codes of practice:|Code of Practice for Investigating Concerns about the Conduct of Research
+|Related information:| N/A
+|Policy owner| Director of Research and Business Engagement (Dr Andrew Walsh)
+Lead contact| Head of Research Governance, Ethics and Integrity (Mrs April Lockyer)
 
 | |Code of Good Research Conduct|10 May 2022|Planning and Resources Committee|2.1|2.0|October 2006, February 2020, February 2022|May 2025|Statute XIII, Ordinance XXIV and Regulation XVII|
 |---|---|---|---|---|---|---|---|---|
