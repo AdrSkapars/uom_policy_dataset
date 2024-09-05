@@ -43,7 +43,8 @@ iv. Improper conduct in peer review of research proposals, results or manuscript
 v. Misuse of research funds, equipment or premises. 
 vi. Mismanagement or inadequate preservation of data and/or primary materials where this could have a significant impact on the research or research outputs. 
 vii. Deliberately preventing the publication of research, for example by withholding data or by inappropriately withholding permissions.|
-|e) Misrepresentation|Misrepresentation of data, including suppression of relevant results/data or knowingly, recklessly or by gross negligence, presenting a flawed interpretation of data.|
+
+e) Misrepresentation|Misrepresentation of data, including suppression of relevant results/data or knowingly, recklessly or by gross negligence, presenting a flawed interpretation of data.|
 
 Code of Good Research Conduct, Version 2.1, May 2022 Page 2 of 5
 # Misconduct in Research
