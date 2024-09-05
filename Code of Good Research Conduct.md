@@ -48,7 +48,7 @@ e) Misrepresentation
 i. Misrepresentation of data, including suppression of relevant results/data or knowingly, recklessly or by gross negligence, presenting a flawed interpretation of data.|
 
 Code of Good Research Conduct, Version 2.1, May 2022 Page 2 of 5
-# Misconduct in Research
+
 
 ii.  Misrepresentation of involvement, including inappropriate claims to authorship or attribution of work and denial of authorship/attribution to persons who have made an appropriate contribution.
 iii.  Misrepresentation of interests, including failure to declare competing interests of researchers or funders of a study.
