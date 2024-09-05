@@ -67,7 +67,7 @@ h) Failure to give appropriate recognition to others involved in research activi
 i) Deviation from current accepted practice in carrying out research where this does not fit into any category described above;
 j) Mismanagement or inadequate preservation of data and/or primary materials where this does not fit criteria d) vi above.
 
-# The University’s Expectations of its Researchers
+# The University’s Expectations of its researchers
 
 The University expects the highest standards of research integrity from the researchers it supports. This includes, but is not limited to, people who conduct research as employees; as an independent contractor or consultant; as a research student; as a visiting or emeritus member of staff; or as a member of staff on a joint clinical or honorary contract, irrespective of the sources of their funding, their area of research, their experience as researchers, whether they are lone scholars or members of a research team or where the research is to be conducted. It is the responsibility of all researchers and staff supporting research to conduct their research in accordance with the ten Principles set out below and in compliance with relevant University policies.
 
