@@ -143,11 +143,11 @@ Clinical Trials Regulations
 
 Human Tissue Act
 
-# Professional standards
+# ix.  Professional standards
 
 Researchers should observe the standards of practice set out in guidelines published by professional societies, funding agencies and other relevant bodies, where appropriate and available. Researchers must ensure that they have the necessary skills and training to conduct their research.
 
-# Report research misconduct
+# x. Report research misconduct
 
 Researchers should be aware of the extreme seriousness of research misconduct. Staff and students of the University have an obligation to report suspected research misconduct in accordance with the University’s Code of Practice for Investigating Concerns about the Conduct of Research.
 
