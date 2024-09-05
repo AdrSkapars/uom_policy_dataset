@@ -173,10 +173,6 @@ Dignity at Work and Study Policy
 |Policy owner| Director of Research and Business Engagement (Dr Andrew Walsh)
 Lead contact| Head of Research Governance, Ethics and Integrity (Mrs April Lockyer)
 
-| |Code of Good Research Conduct|10 May 2022|Planning and Resources Committee|2.1|2.0|October 2006, February 2020, February 2022|May 2025|Statute XIII, Ordinance XXIV and Regulation XVII|
-|---|---|---|---|---|---|---|---|---|
-|Medium|Code of Practice for Investigating Concerns about the Conduct in Research|Policy on Ethical Involvement of Human Participants in Research|Policy on the use of Animals in Research|Dignity at Work and Study Policy|N/A|Code of Practice for Investigating Concerns about the Conduct of Research|N/A| |
-|Director of Research and Business Engagement (Dr Andrew Walsh)|Head of Research Governance, Ethics and Integrity (Mrs April Lockyer)| | | | | | | |
 
 Code of Good Research Conduct, Version 2.1, May 2022
 
