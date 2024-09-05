@@ -73,16 +73,21 @@ The University expects the highest standards of research integrity from the rese
 
 # Principles of Good Research Conduct
 
-1. # Excellence
+# i. # Excellence
 
 Researchers are expected to strive for excellence when conducting their research; aiming to design, conduct, produce and disseminate work of the highest quality and ethical standards.
-2. # Honesty
+# ii.  Honesty
 
 Researchers must be honest in respect of their own actions and in their responses to the actions of others. This applies to the whole range of research activity including:
 
 - applying for funding;
 - experimental and protocol design;
 - generating, recording, analysing and interpreting data;
+- publishing and exploiting results;
+- acknowledging the direct and indirect contributions of colleagues, collaborators and
+  others;
+- and reporting cases of suspected misconduct in a responsible and appropriate
+  manner.
 
 Code of Good Research Conduct, Version 2.1, May 2022 Page 3 of 5
 # iii. Openness
