@@ -16,23 +16,15 @@
 - integrating the assessment of health & safety training needs into the process of personal development review;
 - maintaining the workplaces under my control, and the means of access and egress, in a safe condition;
 - providing and maintaining a safe and healthy working environment;
+- encouraging staff to set a high standard of health and safety by personal example;
+- keeping University health and safety codes and guidance under review and up-to-date;
+- monitoring the health & safety performance of managers;
+- encouraging and facilitating the involvement of all employees in decisions affecting their health and safety at work;
+- maintaining and encouraging a two-way communication process on health and safety matters during routine management meetings;
+- proactively manage future risks and emerging health and safety issues as appropriate;
+- provision of competent specialist advice is available from within C&R through Safety Services, and Radiation Safety as appropriate.
 
-Rev Oct 2016
-encouraging staff to set a high standard of health and safety by personal example;
-
-keeping University health and safety codes and guidance under review and up-to-date;
-
-monitoring the health & safety performance of managers;
-
-encouraging and facilitating the involvement of all employees in decisions affecting their health and safety at work;
-
-maintaining and encouraging a two-way communication process on health and safety matters during routine management meetings;
-
-proactively manage future risks and emerging health and safety issues as appropriate;
-
-provision of competent specialist advice is available from within C&R through Safety Services, and Radiation Safety as appropriate.
-
-This statement shall be reviewed annually and revised as appropriate and will be issued to all new employees.
+3. This statement shall be reviewed annually and revised as appropriate and will be issued to all new employees.
 
 Signature : 2654
 
@@ -53,7 +45,16 @@ General health & safety management
 
 The Heads of Radiological Safety, Safety Services and Deputy Secretary are also delegated responsibility for:
 
-implementing University codes and guidancecarrying out, and keeping under review, relevant risk assessmentsinvestigating reported accidents or incidentsensuring that display screen assessment are carried out and kept up-to-date (in accordance with the University’s code)ensuring portable appliance tests are carried out and kept-up-date, and any other concerns about electrical safety are reported to Estates & Facilitiesimplementing in full the approved induction process for new members of staffassisting Estates & Facilities in their co-ordination of fire risk assessmentsappointing fire marshals to perform fire evacuationscompliance with Ionising Radiation Regulations
+- implementing University codes and guidance
+- carrying out, and keeping under review, relevant risk assessments
+- investigating reported accidents or incidents
+- ensuring that display screen assessment are carried out and kept up-to-date (in accordance with the University’s code)
+- ensuring portable appliance tests are carried out and kept-up-date, and any other concerns about electrical safety are reported to Estates & Facilities
+- implementing in full the approved induction process for new members of staff
+- assisting Estates & Facilities in their co-ordination of fire risk assessments 
+- appointing fire marshals to perform fire evacuations
+- compliance with Ionising Radiation Regulations
+
 Personal development reviews include monitoring progress in health & safety management.
 
 Rev Oct 2016

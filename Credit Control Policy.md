@@ -1,19 +1,20 @@
-# Directorate of Finance Credit Control Policy
+# Directorate of Finance 
+# Credit Control Policy
 
 Purpose:
 
 The Credit Control Policy supports the University in running an efficient and effective system of credit management. It ensures that all parties involved are aware of the University’s approach to the practice and the procedures involved in the recovery of outstanding debt, both Research and commercial, tuition and non-tuition related. The aim of the Policy is to:
 
 - Minimise the financial and reputational risk to the University and enable the proactive management of all debt incurred by organisations and or students; and
-- Promote a strong credit control ethos within the University that will support collaborative and co-working in Faculties, Schools and other relevant central offices.
+- Promote a strong credit control ethos with in the University that will support collaborative and co-working in Faculties, Schools and other relevant central offices.
 
-Policy:
+# Policy:
 
-Customers
+# Customers
 
 All new and existing customers, where applicable will have a credit worthiness check.
 
-Sales Invoicing and Debt
+# Sales Invoicing and Debt
 
 All invoices must be raised in compliance with the University’s general invoicing advice detailed in the Financial Regulations and the Finance Procedures.
 
@@ -26,13 +27,10 @@ All overdue debt will be chased by the Credit Control Office in line with the Un
 All non-collectable debt over 365 days overdue will be recommended for write off, unless the debt has been referred onto an external third part agency for recovery. All recommendations for write off will be fully communicated to, and agreed with, the Head of Transaction Services, and borne centrally.
 
 Any invoices which have been raised without compliance with the University’s procedures e.g. failure to obtain a purchase order document from the customer, and which remains unpaid after it becomes overdue, should be credited by the Faculties/Areas.
-# All queries raised by the customer
 
-in relation to disputed goods and services must be resolved wherever possible within 5 working days of receiving the query and the Credit Control Team emailed with the resolution.
+All queries raised by the customer in relation to disputed goods and services must be resolved wherever possible within 5 working days of receiving the query and the Credit Control Team emailed with the resolution.
 
-# Faculties/Areas in negotiation with Customers
-
-in regards to debt must invite/involve the Credit Control Manager in any discussions. In exceptional circumstances arrangements of repayment of debt may be allowed. This will require the express written approval of the Head of Transactional Services or the Credit Control Manager.
+If Faculties/Areas are in negotiation with Customers in regards to debt they must invite/involve the Credit Control Manager in any discussions. In exceptional circumstances arrangements of repayment of debt may be allowed. This will require the express written approval of the Head of Transactional Services or the Credit Control Manager.
 
 # Accommodation and Other charges
 
@@ -65,7 +63,7 @@ All unallocated credit notes and credit payments over 30 days will be reviewed b
 
 In order to protect the University from accusations/attempts of money laundering and fraud, we must, wherever possible, refund payments using the same method by which they were received.
 
-See www.finance.manchester.ac.uk/compliance/moneylaundering/
+- See www.finance.manchester.ac.uk/compliance/moneylaundering/
 
 # Debt Write Off Authority Limits
 
@@ -77,10 +75,9 @@ All sales invoices to be written off to the University’s bad debt provision wi
 |Invoices from £5,000 to £50,000|Director of Finance|
 |Invoices over £50,000|Finance Committee|
 
-# Document Control Box
-
-|Policy title:|Credit Control Policy|
+|Document Control Box| |
 |---|---|
+|Policy title:|Credit Control Policy|
 |Date approved:|01/11/2016|
 |Approving body:|Finance Committee|
 |Version:|2014|
@@ -88,13 +85,11 @@ All sales invoices to be written off to the University’s bad debt provision wi
 |Previous review dates:|N/A|
 |Next review date:|01/08/2019|
 |Related Statutes, Ordinances, General Regulations:|Ordinance XVI, section 4|
-| |Equality relevance outcome:| |
-|---|---|---|
-|Related policies:| | |
-|Related procedures:| | |
-|Related guidance and or codes of practice:| | |
-|Related information:| | |
-|Policy owner|Lead contact|Medium|
-|Recovery of Student Debt Policy|Financial Regulations|Financial Procedures|
-|N/A|N/A|Director of Finance (Stephen Dauncey)|
-| | |Head of Transactional Services (Michelle Bailey)|
+|Equality relevance outcome:| Medium|
+|Related policies:|Recovery of Student Debt Policy|
+||Financial Regulations | 
+|Related procedures:| Financial Procedures|
+|Related guidance and or codes of practice:| N/A|
+|Related information:|N/A |
+|Policy owner|Director of Finance (Stephen Dauncey)|
+|Lead contact|Head of Transactional Services (Michelle Bailey)|
