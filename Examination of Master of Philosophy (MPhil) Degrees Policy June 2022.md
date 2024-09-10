@@ -28,7 +28,7 @@ examination of Master of Philosophy (MPhil) degrees.
 
 # 4. MPhil Examinations – General Principles
 
-4.1 It is a requirement of the University that candidates for the degree of MPhil produce a thesis or other appropriate form of submitted material which embodies their research for examination at the
+4.1 It is a requirement of the University that candidates for the degree of MPhil produce a thesis or other appropriate form of submitted material which embodies their research for examination at the end of the degree. In what follows the term 'thesis' includes other forms of submitted material except where stated.
 
 Enquiries regarding any deviation from policy should initially be directed to the appropriate PGR Office, and then to the Faculty Associate Dean for Postgraduate Research where appropriate. If necessary, cases may be referred on to the Associate Vice-President for Postgraduate Research and / or the Postgraduate Researchers Management Group (PRMG) via the Research Degrees and Researcher Development Team.
 
