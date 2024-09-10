@@ -36,9 +36,6 @@ June 2022
 Page 1 of 12
 # Examination of Master of Philosophy (MPhil) Degrees Policy
 
-
-|4.1|The examination process for MPhil degrees commences with the submission of a thesis by the candidate, marking the end of the degree. The term 'thesis' includes other submitted materials unless specified otherwise.|
-|---|---|
 |4.2|The examination of an MPhil thesis typically consists of two parts: the submission and assessment of the thesis by one internal and one external examiner, followed by the defense of the thesis at an oral examination with the same examiners.|
 |4.3|Examiners are expected to complete the reading, assessment of the thesis, and preparation of pre-oral examination reports within twelve working weeks. If an oral examination is required, it should be conducted promptly, usually within twelve working weeks of receiving the thesis.|
 |4.4|Examiners may waive the oral examination requirement if both/all examiners agree to award the degree without it. An oral examination is necessary only when further assessment of the candidate is deemed essential.|
