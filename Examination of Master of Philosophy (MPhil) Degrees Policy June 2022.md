@@ -36,7 +36,6 @@ June 2022
 Page 1 of 12
 # Examination of Master of Philosophy (MPhil) Degrees Policy
 
-4. Examination Process
 
 |4.1|The examination process for MPhil degrees commences with the submission of a thesis by the candidate, marking the end of the degree. The term 'thesis' includes other submitted materials unless specified otherwise.|
 |---|---|
