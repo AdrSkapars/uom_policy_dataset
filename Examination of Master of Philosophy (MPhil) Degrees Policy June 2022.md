@@ -76,7 +76,6 @@ Page 2 of 12
 
 
 |5.2|Candidates should seek the advice of their supervisor/s on when to give notice. The supervisor/s opinion is advisory and the decision on when to submit lies with the candidate. The agreement of the supervisor to the submission of a thesis does not guarantee the award of the degree.|
-|---|---|
 |5.3|Where the supervisor/s advise a candidate against submitting their thesis, it is recommended that they note their concerns and reasoning with the relevant PGR Office.|
 |5.4|On submission of the completed Notice of Submission Form, the candidate’s main supervisor will ensure that examiners are nominated in accordance with the criteria stipulated in the University’s Nomination of Examiners & Independent Chairs for Postgraduate Research Degree Examinations Policy.|
 
@@ -85,11 +84,12 @@ Page 2 of 12
 |6.1|Theses must be presented in accordance with the instructions set out in the University’s Presentation of Theses Policy.|
 |---|---|
 |6.2|The thesis must be submitted electronically in Portable Document Format (PDF) to the online institutional repository (where a programme is exempt from this requirement it will be stated in the Faculty/School Programme guidelines).|
-|6.3|The appropriate PGR office will arrange for the electronic thesis to be forwarded to each examiner for assessment (under no circumstances should the candidate or supervisor/s supply the examiners with copies directly) alongside copies of the following documents accompanied by a covering letter containing instructions for completing and returning forms: 1. Pre-Oral Examination Report Form. To be completed by each examiner where they have agreed that an oral examination is required.
-2. Examiners’ Report Form. To be completed jointly by both examiners after the examination.
-3. Examination of Master of Philosophy (MPhil) Degrees Policy.
-4. Oral Examination Procedure for Postgraduate Research Degrees.
-5. Fees and Expenses claim form (external examiners only).
+|6.3|The appropriate PGR office will arrange for the electronic thesis to be forwarded to each examiner for assessment (under no circumstances should the candidate or supervisor/s supply the examiners with copies directly) alongside copies of the following documents accompanied by a covering letter containing instructions for completing and returning forms: 
+i. Pre-Oral Examination Report Form. To be completed by each examiner where they have agreed that an oral examination is required.
+ii. Examiners’ Report Form. To be completed jointly by both examiners after the examination.
+iii. Examination of Master of Philosophy (MPhil) Degrees Policy.
+iv. Oral Examination Procedure for Postgraduate Research Degrees.
+v. Fees and Expenses claim form (external examiners only).
 |
 |6.4|If an examiner is unable to carry out their duties an alternative examiner should be appointed. The candidate should be informed of any change to the examiner or any delay in appointing a suitable examiner at the earliest possible time.|
 |6.5|If the thesis submitted for examination has been poorly written or presented, examiners are not permitted to return the thesis to the candidate for amendment prior to the oral examination.|
