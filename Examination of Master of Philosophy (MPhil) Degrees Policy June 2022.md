@@ -41,13 +41,24 @@ Page 1 of 12
 and write their pre-oral examination reports (where required). If an oral examination is required it
 must take place without undue delay (normally within twelve working weeks of the thesis being sent
 to the examiner).|
-|4.4|Examiners may waive the oral examination requirement if both/all examiners agree to award the degree without it. An oral examination is necessary only when further assessment of the candidate is deemed essential.|
-|4.5|For details on the oral examination process, refer to the Oral Examination Procedure for Postgraduate Research Degrees.|
-|4.6|Examiners are not allowed to fail or refer a thesis based on issues not discussed with the candidate during the oral examination.|
-|4.7|Only one opportunity is given for MPhil candidates to resubmit their thesis for re-examination.|
-|4.8|In addition to the oral examination, candidates may be required to undergo a written examination or presentation to assess their subject competence. The examination will focus on material essential for the degree.|
-|4.9|Candidates must fulfill the oral requirement of the MPhil degree before receiving the final award.|
-|4.10|Candidates must meet any additional program-specific requirements, such as taught courses, practical work, or placements, to the specified standard for the final award.|
+|4.4| Examiners of an MPhil thesis may waive the requirement for the candidate to attend an oral
+examination if the recommendation is to award the degree and both / all examiners are in
+agreement. An oral examination is only necessary when the examiners feel that the candidate
+requires further assessment.|
+|4.5|Where an oral examination is required please also refer to the oral examination process as
+described in the Oral Examination Procedure for Postgraduate Research Degrees.|
+|4.6|Examiners are not permitted to fail or refer a thesis on grounds that are not raised with the candidate
+in the oral examination.|
+|4.7|Only one opportunity to resubmit for re-examination is permitted for MPhil degrees.|
+|4.8|In addition to an oral examination, candidates may be required by the examiners to undertake a
+written examination or presentation which may, for example, test or examine the candidate’s
+competence in the subject. The candidate may only be examined upon material that is formally
+required for the degree for which they are being examined.|
+|4.9|Where applicable, candidates must satisfy the oral requirement of the MPhil degree before they
+can receive the final award.|
+|4.10|Candidates must satisfactorily complete any additional taught, practical or placement
+requirements, as defined by their programme, to the specified standard in order to receive the final
+award.|
 
 5. Procedures Prior to MPhil Examination - Notice of Submission
 
