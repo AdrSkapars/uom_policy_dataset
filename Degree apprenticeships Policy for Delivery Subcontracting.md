@@ -1,14 +1,18 @@
-# MANCHESTER1824 University of Manchester Policy for Delivery Subcontracting
+MANCHESTER1824
 
-# 1. Introduction
+### University of Manchester 
+
+# Policy for Delivery Subcontracting
+
+## 1. Introduction
 
 1.1 In order to adhere to the Education and Skills Funding Agency (ESFA) rules, this policy sets out the requirement for subcontracting provision for degree and higher apprenticeships delivered across the University.
 
-# 2. Scope
+## 2. Scope
 
 2.1 This policy applies to all apprenticeship subcontractor partner provision secured by the University including, where necessary, the delivery of Functional Skills English and Maths level 2 qualifications as part of the apprenticeship programme.
 
-# 3. Procurement and Contracting
+## 3. Procurement and Contracting
 
 3.1 The University will at all times undertake fair and transparent procurement activities and will undertake a robust process of due diligence when selecting potential subcontractors to ensure the highest quality of learning delivery is made available which demonstrates value for money and has a positive impact on the experience of both Employers and Learners.
 
@@ -16,7 +20,7 @@
 
 3.3 Successful partners will be issued with a legally binding contract eligible for the period from when the contract commences until the planned completion date of an apprenticeship. The requirements of this policy form part of that contractual agreement. It will be signed and witnessed by the subcontractor and the University. Terms and conditions will be agreed and included in the contract.
 
-# 4. Quality Assurance
+## 4. Quality Assurance
 
 4.1 The quality of ‘provision subcontracting’ i.e. that which is subcontracting delivery of full or part programmes and standards, will be monitored and managed through the existing University Quality Assurance processes and procedures. This will include:
 
@@ -25,20 +29,27 @@
 
 4.2 As per the ESFA rules, the University, Ofsted and the ESFA are granted full permission and rights to monitor the quality of training being provided and are able to visit the subcontractor at their premises, training sites or employers’ premises from which they operate as required by the ESFA Funding rules. This will be reflected in the contractual arrangements.
 
-# 5. Declaration of Use of Sub-contractors
+## 5. Declaration of Use of Sub-contractors
 
-5.1 In line with ESFA and other agency funding rules that apply, the University will publish its policy for delivery subcontracting and actual end of-year sub-contracting fees and charges before the
-# Policy for Delivery Subcontracting: Version amendment history
+5.1 In line with ESFA and other agency funding rules that apply, the University will publish its policy for delivery subcontracting and actual end of-year sub-contracting fees and charges before the start of each academic year. This will only relate to 'provision subcontracting'. It will not include the delivery of a service as part of the delivery of a programme such as functional skills.
 
+5.2 The University will also submit a subcontractor use declaration to the ESFA at least twice each year summarising the value of any sub-contracted provision paid for in the previous period in accordance with their requirements.
+
+## 6. Payment terms
+
+6.1 Payment terms and timings are set out within individual Contracts under Schedule 1.
+
+6.2 The University pays subcontracting partners by BACS the proportion of fees due in respect of valid paperwork provided by the subcontracting partner to the University and under the terms of the Contract issued. The payment is calculated on data submitted to the ESFA (or relevant funding authority) by the University in the preceding month and paid in line with Contract terms.
+
+**Policy for Delivery Subcontracting: Version amendment history**
 |Date|Reason for change|
 |---|---|
 |July 2021|Creation and approval by TLSG|
-|March 2023|Amended paragraph 4.1 to meet updated internal QA requirements. v1.1|
+|March 2023 v1.1 |Amended paragraph 4.1 to meet updated internal QA requirements.|
 
-# Document Control Box
-
-|Policy / Procedure title:|Policy for Delivery Subcontracting|
+|**Document Control Box**||
 |---|---|
+|Policy / Procedure title:|Policy for Delivery Subcontracting|
 |Date approved:|July 2021|
 |Approving body:|TLG/Senate|
 |Implementation date:|July 2021|
