@@ -62,15 +62,18 @@ award.|
 
 5. Procedures Prior to MPhil Examination - Notice of Submission
 
-5.1
-MPhil degree candidates must submit a Notice of Submission Form electronically through the University's system, providing a notice period of at least six weeks up to a maximum of six months before intending to submit their thesis. This allows ample time for examiners to prepare for the oral examination.
+5.1 MPhil degree candidates must complete a Notice of Submission Form, available electronically in
+the University’s progression monitoring system, giving at least six weeks up to a maximum of six
+months’ notice of their intention to submit their thesis to enable preparations for the oral examination
+to be made by the appropriate examiners.
+
 
 June 2022
 
 Page 2 of 12
 # Examination of Master of Philosophy (MPhil) Degrees Policy
 
-# 5. Procedures for Thesis Submission
+
 
 |5.2|Candidates should seek the advice of their supervisor/s on when to give notice. The supervisor/s opinion is advisory and the decision on when to submit lies with the candidate. The agreement of the supervisor to the submission of a thesis does not guarantee the award of the degree.|
 |---|---|
