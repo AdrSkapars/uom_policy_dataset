@@ -389,15 +389,10 @@ The Head of Communications, Media and Public Relations will promote the importan
 The Assistant Mechanical and Energy Engineers will be designated as the Energy and Utility Policy managers and have overall responsibility for performance of the policy and will attend meetings and monitor performance regarding the technical aspects of energy and environmental management.
 
 The Head of Environmental and Sustainability will be actively involved in the promotion of energy reduction techniques and will liaise with the Principal Mechanical and Energy Engineer and the head of communications, Media and Public Relations regarding the internal and external communication strategy to promote energy reduction. This will include engaging with sustainability/environment champions on awareness raising initiatives.
-# The Maintenance Services Manager
 
 The Maintenance Services Manager will have responsibility for ensuring performance of the standards set out within the Energy and Utility Policy by the PSU and will monitor staff performance regarding the delivery of the policy objectives associated with the maintenance practices. Maintenance Services Manager is responsible for ensuring that sufficient resources are made available to enable the objectives of the policy to be fully met. In addition ensure adequate induction and training is provided to new members of staff on all areas relating to the Energy and Utility Policy as appropriate to their role and responsibilities.
 
-# The Faculty Estates Officers
-
 The Faculty Estates Officers will be responsible for ensuring the delivery of the objectives of the Energy and Utility Policy within the faculty and will act as liaison regarding any energy reduction initiatives within the specific faculties.
-
-# The Senior Budget Administrator
 
 The Senior Budget Administrator will be responsible for the collation of energy and environmental statistics associated with the financial implication, and production of concise meaningful reports when required.
 
