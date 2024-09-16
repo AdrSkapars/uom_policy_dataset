@@ -17,124 +17,123 @@ EPM HS18 –THE ENERGY AND UTILITY POLICY
 |Next revision:|July 2019|By:|Tony Small|
 
 i
-# Policy Mission Statement
+1.0 Policy Mission Statement
 
 iv
 
-# INTRODUCTION
+2.0 INTRODUCTION
 
 1
 
-# POLICY OBJECTIVES
+3.0 POLICY OBJECTIVES
 
 2
 
-# ACTION PLAN
+4.0 ACTION PLAN
 
 3
 
-# ENVIRONMENTAL SUSTAINABILITY PLAN
-
-5.1
-7
-
-# Energy and Carbon Management
+5.1 ENVIRONMENTAL SUSTAINABILITY PLAN
 
 7
 
-# Short Term (1 year)
+5.2 Energy and Carbon Management
+
+7
+
+5.3  Short Term (1 year)
 
 8
 
-# Long Term (5 year)
+5.4 Long Term (5 year)
 
 9
 
-# RESPONSIBILITIES AND ACCOUNTABILITIES
+6.0 RESPONSIBILITIES AND ACCOUNTABILITIES
 
 10
 
-# LEGAL CONSTRAINTS
+7.0 LEGAL CONSTRAINTS
 
 12
 
-# DATA COLLECTION
+8.1 DATA COLLECTION
 
-8.1
 12
 
-# Automatic Meter Readings
+8.2 Automatic Meter Readings
 
 13
 
-# Oil Consumption Readings
+8.3 Oil Consumption Readings
 
 13
 
-# Data Entry/Data Risk
+8.4 Data Entry/Data Risk
 
 13
 
-# Carbon Dioxide Emission Factors
+8.5 Carbon Dioxide Emission Factors
 
 13
 
-# Data Checking
+8.6 Data Checking
 
 14
 
-# ENERGY SAVING MEASURES
-
-9.1
-14
-
-# Good Housekeeping
+9.1 ENERGY SAVING MEASURES
 
 14
 
-# Heating and Cooling
+9.2 Good Housekeeping
+
+14
+
+9.3 Heating and Cooling
 
 15
 
-# Heating Season Boiler Reinstatement Protocol
+9.4 Heating Season Boiler Reinstatement Protocol
 
 18
 
-# Lighting
+9.5 Lighting
 
 24
 
-# New Installations
+9.6 New Installations
 
 24
 
-# Electrical Equipment
+9.7 Electrical Equipment
 
 24
 
-# Ventilation
+9.8 Ventilation
 
 24
 
-# Water Services
+9.9 Water Services
 
 25
 
-# MONITORING AND TARGETING
+10.0 MONITORING AND TARGETING
 
 27
 
-# ENERGY AUDITS
+11.0 ENERGY AUDITS
 
 27
-# 12.0 TRAINING AND PUBLICITY CAMPAIGNS
+
+12.0 TRAINING AND PUBLICITY CAMPAIGNS
 
 28
 
-# 13.0 MONITORING AND REVIEW
+13.0 MONITORING AND REVIEW
 
 28
-# Policy Mission Statement
+
+1.1 Policy Mission Statement
 
 The University of Manchester (UoM) recognises that energy consumption is necessary for the provision of educational and research services, however realises that it has a responsibility to minimise and reduce energy consumption and costs in order to adequately discharge its statutory and mandatory obligations.
 
