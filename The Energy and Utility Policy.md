@@ -371,6 +371,7 @@ The longer -term objectives of this policy are:-
 - Where possible, to use energy from sustainable sources, and give further consideration for technologies with longer payback periods than currently accepted; and
 - Giving a higher priority to energy efficient investment.
 - Centralise twenty four hour services to reduce the number of buildings that are heated/illuminated for a minority of out of hours staff/students.
+
 # 6.0 RESPONSIBILITIES AND ACCOUNTABILITIES
 
 This section describes the key roles and responsibilities of staff employed who have an active or passive role and who can best influence energy reduction throughout the UoM portfolio for which the Directorate of Estates and Facilities assumes responsibilities.
