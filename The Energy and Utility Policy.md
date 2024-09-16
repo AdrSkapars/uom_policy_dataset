@@ -133,7 +133,7 @@ iv
 
 28
 
-1.1 Policy Mission Statement
+# 1.1 Policy Mission Statement
 
 The University of Manchester (UoM) recognises that energy consumption is necessary for the provision of educational and research services, however realises that it has a responsibility to minimise and reduce energy consumption and costs in order to adequately discharge its statutory and mandatory obligations.
 
@@ -173,21 +173,23 @@ Signed:
 …………………………………………………………. President and Vice-Chancellor
 
 Date:………………………………………..
+
 # 2.1 INTRODUCTION
 
-The UoM is committed to reducing the impact on the environment from its activities. The implementation of this Energy and Utility Policy shall help deliver the required reduction in pollution associated with the University’s use of energy, and the use of non-sustainable resources, including aiming to:
+The UoM is committed to reducing the impact to the environment from its activities. The implementation of this Energy and Utility Policy shall help deliver the required reduction in pollution associated with the University’s use of energy, and the use of non-sustainable recourses, including aiming to:
 
 - Comply with Government mandatory targets (Climate Change Act 2008) to reduce energy by 34% by 2020 with an additional 8% (40%) and at least an 80% cut in greenhouse gas emissions by 2050. Both targets are against a 1990 baseline
 - Comply with legal requirements and adopt all HEFCE and CIBSE guidance including recommended temperatures, lighting levels etc.;
 - Invest in efficient equipment and buildings through the critical examination of whole life costs and faculty needs;
 - Restrict both the use and purchase of portable heaters;
 - Implement an air-conditioning non-proliferation policy which includes restricting non-essential use, the removal of units from non-critical areas, and the designing out of air conditioning requirements from existing and new buildings;
-- Provide staff with the knowledge of the impact on the environment of energy use and how to reduce the reliance on energy;
+- Provide staff with the knowledge of the impact to the environment of energy use and how to reduce the reliance on energy;
 - Undertake campaigns to win the “hearts and minds” of staff by electing and identifying Energy Enthusiasts within departments;
-- Employ effective monitoring methods, which include localized sub-metering of services;
+- Employ effective monitoring methods, which include localised sub-metering of services;
 - Engage and inform the Environmental Sustainable Strategy Group;
-- Provide quarterly reports on energy consumption to Environmental Sustainability Strategy Group and the Safety Health & Environment Committee, and, when requested, the University Board of Governors;
+- Provide quarterly reports on energy consumption to Environmental Sustainability Strategy Group and the Safety Health & Environment Committee, and, when requested, the University Board of Governors; and
 - Ensure the purchase of “A” energy-rated appliances and or appliances which sport the European Eco-label.
+
 # 3.0 POLICY OBJECTIVES
 
 The Department of Education realise that tackling sustainability must be in the widest terms possible. Therefore accepts economical sustainability shouldn’t be without considering social and environmental sustainability associated with fossil fuel usage at the same time. The combination of these elements are fundamental to truly future-proofing the Department of Education and are a cornerstone to providing a high quality, productive and efficient educational services, both now and in the long term.
@@ -199,7 +201,8 @@ The primary objective of this policy is to provide a framework for the reduction
 To further endorse the requirement to reduce energy consumption, Directive 2002/91/EC calls for a substantial increase in investments in energy efficiency measures within buildings. Energy containment and reduction in consumption initiatives will therefore be considered by the University’s Capital Planning Sub Committee which will help to discharge the carbon reduction obligations. The Department for Innovation, Universities and Skills’ grant letter to HEFCE for 2009-10 required the higher education (HE) sector in England to implement a carbon reduction target. HEFCE has announced that, from 2011, capital allocations will be linked to carbon reduction. HEFCE, Universities UK and GuildHE have published their ‘Carbon reduction target and strategy for higher education in England’ (HEFCE 2010/01). Institutions are required to develop individual carbon management plans and to report on progress and the results achieved.
 
 The fulfilment of the above energy targets will reduce the University generation of “greenhouse gases” and this will, in turn, reduce the cost implications for the University associated with the Carbon Reduction Commitment Energy Efficiency Scheme (CRC) and The European Union Emissions Trading System (EU ETS). Currently the University produces in excess of 60,000 tonnes per annum (2017 emissions) resulting in a financial surcharge of CO2 emissions of in excess of £350,000.
-# ACTION PLAN
+
+# 4.1 ACTION PLAN
 
 The University will adopt the same five-step approach highlighted in GPG376 “A Strategic Approach to Energy and Environmental Management”, and in accordance with ISO 50001 “Energy Management System”. This approach to energy management is widely recognised and has been successfully adopted by numerous UK-based companies and organisations.
 
@@ -215,11 +218,13 @@ The Five Stage approach is based on the following:-
 - “Implementing”
 - “Controlling & monitoring”
 
-Getting commitment
 
-UoM is committed to support the delivery of the Energy and Utility Policy from the top of its organisation which is demonstrated by the endorsement of the policy mission statement. In addition, it includes securing University’s Board support to this policy and establishing regular and appropriate reporting protocols. This support is essential for the long-term success of the energy and utility strategy. UoM will demonstrate the importance of the program regarding achieving the energy target reduction, and board backing to assist the managers who will be actively involved in implementing the strategy. Initial steps are to provide senior management with a clear understanding of the benefits that might accrue. UoM will commit to highlight no-cost and low-cost measures that will bring immediate savings (e.g. switching off lights that are not being used; repairing dripping hot-water taps). If possible, give an estimate of how much these actions might save.
+# Getting commitment
+
+UoM is committed to support the delivery of the Energy and Utility Policy from the top of its organisation which is demonstrate by the endorsement of the policy mission statement. In addition, it includes securing University’s Board support to this policy and establishing regular and appropriate reporting protocols. This support is essential for the long-term success of the energy and utility strategy. UoM will demonstrated the importance of the programme regarding achieving the energy target reduction, and board backing to assist the managers who will be actively involved in implementing the strategy. Initial steps are to provide senior management with a clear understanding of the benefits that might accrue. UoM will commit to highlight no-cost and low-cost measures that will bring immediate savings (e.g. switching off lights that are not being used; repairing dripping hot-water taps). If possible, give an estimate of how much these actions might save.
 
 UoM is aware that ‘commitment’ is more than a statement of support – it should establish accountability among managers involved in the implementation of the strategy, and should require regular reporting on progress. Having an ‘energy champion’ on the board is an excellent way of sustaining this commitment. In addition to top-level commitment, staff from all levels of the organisation need to be encouraged to join your campaign.
+
 # Understanding
 
 UoM will develop a clear understanding of the protocols to identify and establish historic, current and predicted performance, which will be used to monitor and identify areas of waste and possible opportunities. In addition energy usage associated with UoM’s long term maintenance, capital programme and daily activities will be fully quantified.
@@ -228,7 +233,7 @@ The energy needs of the UoM will be determined and appropriate management action
 
 UoM will conduct a thorough review of the current position, the position UoM wishes to achieve, and how to successfully achieve its reduction targets therefore it is essential a clear understanding of how energy usage and associated environmental issues affect the University.
 
-# This will include
+This will include
 
 - Establishing the amount of energy usage which is essential resource for research and educational purposes. The usage may fluctuate with research requirements, but may have a fairly constant baseline demand; therefore UoM should determine what reduction can be achieved without limiting activity.
 - Acknowledging the social benefits by being ‘seen to be green’ and achieving accreditation under the Carbon Trust Standard or achieving ISO 50001 accreditation.
@@ -236,6 +241,7 @@ UoM will conduct a thorough review of the current position, the position UoM wis
 To fully understand the implications, UoM will collect all the associated information regarding gas, electric and water usage to enable clear understanding of the current energy and environmental profiles associated with energy and utility usage. This will involve collecting data from an agreed source and protocol for reporting purposes. In addition to site by site data which can be used for automatic metering and targeting of areas that will provide the largest reductions?
 
 Over the period 2002-4 the Higher Education Environmental Performance Improvement (HEEPI) concluded a benchmarking exercise on the energy consumption of selected buildings in universities and colleges. Workshops with higher education facilities managers were held to develop ways of benchmarking energy consumption within the sector. Over 30 universities provided initial data on energy and water consumption for 223 buildings by this means (see table 1 for details. Whilst recognising an improvement to the current building regulation may have improved the benchmarks, UoM will endeavour to ensure its portfolio achieves no less than best practice.
+
 |Building category| | |Fossil Fuel Performance| | | |Electricity Performance| |
 |---|---|---|---|---|---|---|---|---|
 | | | |kWh/m2|kWh/m2| | | | |
@@ -250,7 +256,7 @@ Over the period 2002-4 the Higher Education Environmental Performance Improvemen
 |Labs – chemical sciences|97|ID|242|41-400|156|ID|287|156-408|
 |Computing - Maths|40|ID|105|40-175|114|ID|106|27-217|
 
-Planning & Organising
+# Planning & Organising
 
 UoM will continually evaluate the Policy Mission Statement by conducting regular reviews of the Energy and Utility Policy, in conjunction with UoM’s existing environmental policies, regarding the use of energy, and the setting of energy and environmental objectives at both a corporate and University divisional level. To support this, organisational roles and responsibilities will be made clear and the University appointment of an appropriately qualified and enthusiastic Energy Team and environmental and sustainability team, who will have the backing of Senior Management to deliver the objectives of this policy.
 
@@ -261,7 +267,8 @@ Existing
 - Emission (tCO2)
 - KWh
 - CO2 Saving (Tonne)
-# Replacement
+
+Replacement
 
 - £/t CO2
 - CO2 Saving (Tonne)
@@ -291,7 +298,10 @@ To include:-
 - Better anticipation of seasonal weather trends to help inform energy management decision making processes; and
 - Identifying areas within the University who excessively consume energy without just cause;
 
-UoM will conclude ‘energy audits’ as a systematic review of the energy reduction programme’s performance against both legal requirements and UoM policy objectives. The audit will provide verification that the systems that have been put in place are being
+UoM will conclude ‘energy audits’ as a systematic review of the energy reduction programme’s performance against both legal requirements and UoM policy objectives. The audit will provide verification that the systems that have been put in place are being followed. It identifies areas where corrective action is required and it highlights
+opportunities for improvement.
+
+
 # 5.0 ENVIRONMENTAL SUSTAINABILITY PLAN
 
 The University’s Strategic Plan 2020 has a clear focus on sustainability, with one of its eight enabling strategies focusing exclusively on environmental sustainability, stating that the University will “…embed environmental sustainability as a key priority across the full range of our activities.” Further within the plan the University is committed to:
