@@ -325,7 +325,6 @@ Water management shall include:
 UoM will, to ensure effective management by conducting regular carbon leadership level reviews of performance in energy efficiency and carbon reduction which should be reported annually to staff, the public and other stakeholders. Carbon measurements should replace energy measurements as the target for reduction, in addition to include within the Energy Reduction Delivery Plan the development of resilient and more renewable energy sources to ensure a guaranteed energy supply, whilst managing their overall carbon footprint.
 
 All capital schemes associated with the University shall include an Energy Reduction Strategy detailing the current emissions and associated emissions regarding the proposed method of reduction for the scheme. The plan shall incorporate systems which highlight reductions above and beyond the building Regulations and Planning Guidance Notes, in addition, measure and monitor on a whole life cycle cost basis associated with energy using equipment.
-# The capital developments
 
 The capital developments should be assessed to ensure options are evaluated on a whole life cost basis. Low carbon options may include renewable energy, passive cooling, ultra-efficient lighting, and natural ventilation. Capital projects should include the following from initial stages of the project:
 
@@ -340,35 +339,26 @@ The capital developments should be assessed to ensure options are evaluated on a
 - Sustainable Development solution must satisfy the basic needs and objectives of a project and not be adopted solely to demonstrate that the project has a sustainable development content.
 - Look at the innovative and creative solutions to fit the sustainable development approach that are practical and evidence-based.
 
-# The University's commitment
-
 The University has committed to reduce energy consumption and therefore requires the introduction of sustainable development plans during its activities, more specifically during activities from its service providers regarding the delivery of maintenance and facility contracts. This requirement will offer a detailed analysis regarding third party activities and highlight compliance with the UK’s statutory obligation in accordance with the Climate Change Act 2008, the University’s targets, and help reduce the environmental impacts in accordance with statutory targets.
 
-# Short Term (1 year)
+# 5.2 Short Term (1 year)
 
 The short-term objectives of this policy are:
 
 - Commission a site survey to establish the condition of the services infrastructure so that improvements can be identified.
 - Liaise with current maintenance providers to better manage the existing energy-related infrastructure.
 - Improve the control over the University’s current energy consumption.
-- Invest in a rolling program of energy-saving measures.
+- Invest in a rolling programme of energy-saving measures.
 - Safeguard energy conservation measures by employing management information systems to deliver information in a format to better support managerial decisions.
 - Introduce and implement mechanisms for gathering accurate consumption-related data.
-# Compile performance data reports to identify current energy consumption trends so that corrective action can be quickly taken (if necessary);
-
-# Establish a carbon emissions trading contract to ensure best value for money; and
-
-# Identify cost effective energy efficiency measures including informing energy users of simple yet effective containment actions.
-
-# Implement Energy and Low Carbon Strategy requirements regarding schemes and the upgrading of the building portfolio, works employed regarding change of use and new contract works.
-
-# In accordance with the Environmental Sustainability Plan ensure energy reduction is embedded in the delivery of the of Long Term Maintenance Programme (LTM) ensuring a key theme is to improve energy efficiency so as to reduce the energy demands of buildings.
-
-# Introduce an energy management contract to ensure building controls are fully utilised to provide optimum efficiency. Review the Design Team Guide to consider all elements provide the most efficient system associated with energy reduction.
-
-# Introduce energy site log books
-
-# Develop an Energy Reduction
+- Compile performance data reports to identify current energy consumption trends so that corrective action can be quickly taken (if necessary);
+- Establish a carbon emissions trading contract to ensure best value for money; and
+- Identify cost effective energy efficiency measures including informing energy users of simple yet effective containment actions.
+- Implement Energy and Low Carbon Strategy requirements regarding schemes and the upgrading of the building portfolio, works employed regarding change of use and new contract works.
+- In accordance with the Environmental Sustainability Plan ensure energy reduction is embedded in the delivery of the of Long Term Maintenance Programme (LTM) ensuring a key theme is to improve energy efficiency so as to reduce the energy demands of buildings.
+- Introduce an energy management contract to ensure building controls are fully utilised to provide optimum efficiency. Review the Design Team Guide to consider all elements provide the most efficient system associated with energy reduction.
+- Introduce energy site log books
+- Develop an Energy Reduction
 
 # Long Term (5 year)
 
