@@ -360,7 +360,7 @@ The short-term objectives of this policy are:
 - Introduce energy site log books
 - Develop an Energy Reduction
 
-# Long Term (5 year)
+# 5.3 Long Term (5 year)
 
 The longer -term objectives of this policy are:-
 
@@ -384,7 +384,7 @@ The Principal Mechanical and Energy Engineer for the Professional Services Unit 
 
 The Head of Professional Services Unit will be responsible for Improving site infrastructure regarding the DHW & heating, HVAC and general energy efficiency associated with the long term maintenance requirements. This will be achieved by increasing priority regarding energy efficient techniques during the delivery of the long term maintenance programme.
 
-The Head of Communications, Media and Public Relations will promote the importance of energy conservation and develop reporting mechanisms on energy reduction techniques by raising awareness and developing into practical advice which can be utilized by the UoM Staff during their day to day activities. Further activities will concentrate on delivering the right message regarding the specific conservation schemes.
+The Head of Communications, Media and Public Relations will promote the importance of energy conservation and develop reporting mechanisms on energy reduction techniques by raising awareness and developing into practical advice which can utilise by the UoM Staff during their day to day activities. Further activities will concentrate on delivering the right message regarding the specific conservation schemes.
 
 The Assistant Mechanical and Energy Engineers will be designated as the Energy and Utility Policy managers and have overall responsibility for performance of the policy and will attend meetings and monitor performance regarding the technical aspects of energy and environmental management.
 
